@@ -5,17 +5,25 @@
 - Тестирование. Фундаментальная теория Часть 1 - https://dou.ua/forums/topic/13389/
 - Тестирование. Фундаментальная теория Часть 2 - https://dou.ua/forums/topic/14015/
 - Собеседование по тестированию - https://habr.com/ru/post/254209/
+- #КОДЫ ОТВЕТА СЕРВЕРА - https://www.bertal.ru/help.php?ex=1
+- Куки - https://developer.mozilla.org/ru/docs/Web/HTTP/Куки
+- Куки - https://ru.wikipedia.org/wiki/Cookie
+- КЭШ - https://ru.wikipedia.org/wiki/Кэш
+- DOM - https://learn.javascript.ru/dom-nodes
+- DOM - https://ru.wikipedia.org/wiki/Document_Object_Model
 - be smart cookie
 
 # SCRUM
+- The Scrum Guide - https://www.scrum.org/resources/scrum-guide
 - Мини-справочник и руководство по Scrum - https://habr.com/ru/post/464861/
 - SCRUM - https://ru.wikipedia.org/wiki/SCRUM
 
 # SQL
+- SQL (structured query language — «язык структурированных запросов»)- https://ru.wikipedia.org/wiki/SQL
 - SQL Tutorial  (SQL запросы) - https://www.w3schools.com/sql/sql_select.asp
-- Тренировка №1 - https://sqlbolt.com/lesson/select_queries_introduction
+- Тренировка (SQL запросы) №1  - https://sqlbolt.com/lesson/select_queries_introduction
 - Ответы №1 - https://gist.github.com/CSaratakij/dfef81cd71c0f616d4d36a189247b19e#lesson-1--select-queries-101
-- Тренировка №2 - https://sqlzoo.net/wiki/
+- Тренировка (SQL запросы) №2 - https://sqlzoo.net/wiki/
 - Ответы №2 - https://github.com/edsfocci/SQL-SQL_Zoo
 
 # MySQL
