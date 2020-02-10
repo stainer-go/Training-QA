@@ -11,6 +11,14 @@
 - КЭШ - https://ru.wikipedia.org/wiki/Кэш
 - DOM - https://learn.javascript.ru/dom-nodes
 - DOM - https://ru.wikipedia.org/wiki/Document_Object_Model
+- Чит-лист по Web UI контролам от Игоря Любина - http://wiki.software-testing.ru/Чит-лист_по_Web_UI_контролам_от_Игоря_Любина
+- Чит-лист регистрации от Алексея Лупана - http://wiki.software-testing.ru/Чит-лист_регистрации_от_Алексея_Лупана
+- Руководство по SQL-инъекциям: изучаем на примерах - https://www.internet-technologies.ru/articles/rukovodstvo-po-sql-inekciyam-izuchaem-na-primerah.html
+- Тестирование защищенности веб-приложений - https://www.slideshare.net/VLDCORP/ss-10528253
+- Pairwise testing. Попарное тестирование. Программа PICT для попарного тестирования - https://www.youtube.com/watch?v=uPL5VrITeH4&list=PLIBIArebIchT9mWt89_Q18B3IDrcK2pHh&index=33
+- ПОПАРНОЕ ТЕСТИРОВАНИЕ (PAIRWISE TESTING) - https://training.qatestlab.com/blog/technical-articles/pairwise-testing/
+- Открытый вебинар «Метод Pairwise Testing в Black Box тестировании» - https://habr.com/ru/company/otus/blog/437980/
+- Инструменты для Pairwise - http://okiseleva.blogspot.com/2018/04/pairwise.html
 - be smart cookie
 
 # SCRUM
@@ -55,12 +63,32 @@
 - Видеокурс QA Start (ITVDN) Артем Быковец  https://www.youtube.com/playlist?list=PLvItDmb0sZw8npbYThWpZs5_cZU9ycos4
 - Видео Web Testing (ITVDN) Артем Быковец https://www.youtube.com/playlist?list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K
 - Видеокурс по тестированию ПО (ITVDN) https://www.youtube.com/playlist?list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU 
-- Видео Software Testing & QA (ITVDN) https://www.youtube.com/playlist?list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy 
+- Видео Software Testing & QA (ITVDN) https://www.youtube.com/playlist?list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy
+- QA практикум. Техники тест дизайна. Часть 1 - https://www.youtube.com/watch?v=gcWiWCrje44&t=13s
+- QA практикум. Техники тест дизайна. Часть 2 - https://www.youtube.com/watch?v=BQPdfQujJU8
 - Внедрение новичка в команду тестировщиков" http://www.aliceqa.ru/2012/03/blog-post.html
 - Портнов https://www.youtube.com/watch?v=wYnayqdP9Ck
 - Баранцев про автотесты https://www.youtube.com/channel/UCVMFyEVvaBDQ3PrExtCH0uw
 - На англ. с рус субтитрами https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486769410923
 - Курсы тестировщика - https://www.youtube.com/channel/UCuzEhPFX06wrUD8MlW9cm3w
+
+# English
+- https://www.duolingo.com
+- https://englsecrets.ru
+- https://www.duolingo.com/learn
+- Как я осилил английский - https://habr.com/ru/post/413633/   
+- https://skyeng.ru/articles/100-populyarnyh-razgovornyh-fraz-na-anglijskom
+- https://www.learnamericanenglishonline.com
+- Английский с нуля с Дмитрием Петровым - https://www.youtube.com/watch?v=kxzGEr5gGW4&list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92&index=4   
+- АНГЛИЙСКИЙ ЯЗЫК. ВЫУЧИМ 7000 АНГЛИЙСКИХ СЛОВ - https://www.youtube.com/watch?v=ESgEhKTI-K0&list=FL4lGM8jFNEZv5fAVVWMKhyA&index=4  
+- https://www.youtube.com/channel/UCWihhVhYSjTOsSRGXVHncBQ
+
+#Логические задачи
+- https://qa-academy.ru/qaacademy/news/sobesedovanie-na-dolzhnost-inzhenera-po-testirovaniyu-po-logicheskie-zadachi/
+- https://ipshnik.com/rabota-s-kadrami/priem-na-rabotu/zadaniya-na-logiku-vo-vremya-sobesedovaniya.html
+
+#Freelance
+- https://www.utest.com
 
 #Блоги/люди
 - Крутая тетенька - https://www.blogger.com/profile/03026399106706734657
@@ -76,6 +104,9 @@
 
 #Всё о Селениуме 
 - https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_intro/index.html
+
+#Полезные расширения для тестирования
+- https://stfalcon.com/ru/blog/post/useful-testing-extensions
 
 #Ответы на разные вопросы Оо 
 - https://docs.google.com/spreadsheets/d/1whPeWb3yu91ZIz6lhwrB9_ZSTxfMPMB2EkUBAle12gQ/edit#gid=0
