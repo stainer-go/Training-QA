@@ -5,7 +5,7 @@
 - Тестирование. Фундаментальная теория Часть 1 - https://dou.ua/forums/topic/13389/
 - Тестирование. Фундаментальная теория Часть 2 - https://dou.ua/forums/topic/14015/
 - Собеседование по тестированию - https://habr.com/ru/post/254209/
-- #КОДЫ ОТВЕТА СЕРВЕРА - https://www.bertal.ru/help.php?ex=1
+- КОДЫ ОТВЕТА СЕРВЕРА - https://www.bertal.ru/help.php?ex=1
 - Куки - https://developer.mozilla.org/ru/docs/Web/HTTP/Куки
 - Куки - https://ru.wikipedia.org/wiki/Cookie
 - КЭШ - https://ru.wikipedia.org/wiki/Кэш
@@ -29,6 +29,13 @@
 # MySQL
 - https://ru.wikipedia.org/wiki/MySQL
 
+# API. REST API vs SOAP API
+- Что такое API - https://habr.com/ru/post/464261/
+- Как работать с API -https://www.youtube.com/watch?v=ZOAr4XcHDUw&list=FL4lGM8jFNEZv5fAVVWMKhyA&index=2&t=202s
+- Тестировать REST API - http://testbase.ru/?post_type=skill&p=1313
+- Тестировать SOAP API - http://testbase.ru/?post_type=skill&p=1375
+- REST vs SOAP - https://jsehelper.blogspot.com/2016/04/web-services.html
+- REST vs SOAP - https://fooobar.com/questions/2543/soap-vs-rest-differences
 
 # Книги: 
 - Список книг - http://okiseleva.blogspot.ru/2014/02/blog-post_6.html
@@ -41,11 +48,13 @@
 - Психология влияния. Роберт Чалдини - http://okiseleva.blogspot.ru/2016/08/blog-post_15.html
 
 # Видео
-- Что должен уметь начинающий тестировщик http://testbase.ru/
-- Видеокурс по тестированию ПО https://www.youtube.com/playlist?list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU 
-- Видеокурс QA Start  https://www.youtube.com/playlist?list=PLvItDmb0sZw8npbYThWpZs5_cZU9ycos4 
-- Видео https://www.youtube.com/playlist?list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy 
-- Видео Web Testinghttps://www.youtube.com/playlist?list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K 
+- Ресурс видеоуроков ( уже платный) https://coursehunter.net
+- Тестирование веб-приложений 2.0 Алексей Баранцев https://drive.google.com/open?id=1GYp25pnoGmvmdSxomQ9mO3Fq0XuW0a7w
+- Видео Web-технологии Дмитрий Смаль (Шл) https://www.youtube.com/watch?v=Ys2CB4C2NWA&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a
+- Видеокурс QA Start (ITVDN) Артем Быковец  https://www.youtube.com/playlist?list=PLvItDmb0sZw8npbYThWpZs5_cZU9ycos4
+- Видео Web Testing (ITVDN) Артем Быковец https://www.youtube.com/playlist?list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K
+- Видеокурс по тестированию ПО (ITVDN) https://www.youtube.com/playlist?list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU 
+- Видео Software Testing & QA (ITVDN) https://www.youtube.com/playlist?list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy 
 - Внедрение новичка в команду тестировщиков" http://www.aliceqa.ru/2012/03/blog-post.html
 - Портнов https://www.youtube.com/watch?v=wYnayqdP9Ck
 - Баранцев про автотесты https://www.youtube.com/channel/UCVMFyEVvaBDQ3PrExtCH0uw
