@@ -44,7 +44,7 @@
 - !Lee Copeland. A Practitioner's Guide to Software Test Design - нет на русском http://okiseleva.blogspot.ru/2012/03/-lee-copeland-practitioners-guide-to.html
 - Ron Patton. Software Testing - http://okiseleva.blogspot.ru/2013/11/ron-patton-software-testing.html
 - Exploratory software testing. James Whittaker - http://okiseleva.blogspot.ru/2015/02/-exploratory-software-testing-james.html
-- Тестирование программного обеспечения. Базовый курс. Святослав Куликов - http://okiseleva.blogspot.ru/2015/10/-blog-post_89.html
+- Тестирование программного обеспечения. Базовый курс. Святослав Куликов - https://careers.epam.by/content/dam/epam/by/book_epam_by/Software_Testing_Basics_2_izdanie.pdf
 - Джоэл о программировании. Джоэл Спольски - http://okiseleva.blogspot.ru/2015/12/blog-post_24.html
 - Психология влияния. Роберт Чалдини - http://okiseleva.blogspot.ru/2016/08/blog-post_15.html
 
@@ -68,6 +68,7 @@
 - Путь тестировщика – от претендента к сотруднику IT-компании - https://www.scnsoft.by/blog/how-to-become-a-tester
 
 #Курсы
+- https://www.it-academy.by/media/intervyu/svyatoslav-kulikov-glavnyy-sekret-uspeshnogo-testirovshchika-byt-paranoikom-/
 - http://training.qatestlab.com/
 - http://www.intuit.ru/studies/courses/1023/300/info
 - http://www.intuit.ru/studies/courses/48/48/info
