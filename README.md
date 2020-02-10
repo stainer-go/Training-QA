@@ -1,8 +1,26 @@
 # Последовательность обучения
-- www.protesting.ru - http://www.protesting.ru/testing/ 
-- www.software-testing.ru - https://www.software-testing.ru/library/testing
-- http://testbase.ru/
+- Protesting.ru - http://www.protesting.ru/testing/ 
+- Software-testing.ru - https://www.software-testing.ru/library/testing
+- Testbase - http://testbase.ru/
+- Тестирование. Фундаментальная теория Часть 1 - https://dou.ua/forums/topic/13389/
+- Тестирование. Фундаментальная теория Часть 2 - https://dou.ua/forums/topic/14015/
+- Собеседование по тестированию - https://habr.com/ru/post/254209/
 - be smart cookie
+
+# SCRUM
+- Мини-справочник и руководство по Scrum - https://habr.com/ru/post/464861/
+- SCRUM - https://ru.wikipedia.org/wiki/SCRUM
+
+# SQL
+- SQL Tutorial  (SQL запросы) - https://www.w3schools.com/sql/sql_select.asp
+- Тренировка №1 - https://sqlbolt.com/lesson/select_queries_introduction
+- Ответы №1 - https://gist.github.com/CSaratakij/dfef81cd71c0f616d4d36a189247b19e#lesson-1--select-queries-101
+- Тренировка №2 - https://sqlzoo.net/wiki/
+- Ответы №2 - https://github.com/edsfocci/SQL-SQL_Zoo
+
+# MySQL
+- https://ru.wikipedia.org/wiki/MySQL
+
 
 # Книги: 
 - Список книг - http://okiseleva.blogspot.ru/2014/02/blog-post_6.html
