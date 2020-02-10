@@ -30,8 +30,9 @@
 - https://ru.wikipedia.org/wiki/MySQL
 
 # API. REST API vs SOAP API
+- Что такое API для самых маленьких - https://habr.com/ru/sandbox/52599/
 - Что такое API - https://habr.com/ru/post/464261/
-- Как работать с API -https://www.youtube.com/watch?v=ZOAr4XcHDUw&list=FL4lGM8jFNEZv5fAVVWMKhyA&index=2&t=202s
+- Как работать с API - https://www.youtube.com/watch?v=ZOAr4XcHDUw&list=FL4lGM8jFNEZv5fAVVWMKhyA&index=2&t=202s
 - Тестировать REST API - http://testbase.ru/?post_type=skill&p=1313
 - Тестировать SOAP API - http://testbase.ru/?post_type=skill&p=1375
 - REST vs SOAP - https://jsehelper.blogspot.com/2016/04/web-services.html
