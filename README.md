@@ -57,7 +57,7 @@
 - Психология влияния. Роберт Чалдини - http://okiseleva.blogspot.ru/2016/08/blog-post_15.html
 
 # Видео
-- Ресурс видеоуроков ( уже платный) https://coursehunter.net
+- Ресурс видеоуроков (уже платный) https://coursehunter.net
 - Тестирование веб-приложений 2.0 Алексей Баранцев https://drive.google.com/open?id=1GYp25pnoGmvmdSxomQ9mO3Fq0XuW0a7w
 - Видео Web-технологии Дмитрий Смаль (Шл) https://www.youtube.com/watch?v=Ys2CB4C2NWA&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a
 - Видеокурс QA Start (ITVDN) Артем Быковец  https://www.youtube.com/playlist?list=PLvItDmb0sZw8npbYThWpZs5_cZU9ycos4
@@ -73,11 +73,15 @@
 - Курсы тестировщика - https://www.youtube.com/channel/UCuzEhPFX06wrUD8MlW9cm3w
 
 # English
+- https://lingualeo.com/ru/
 - https://www.duolingo.com
 - https://englsecrets.ru
 - https://www.duolingo.com/learn
+- https://www.efset.org
+- https://test.str.by/login/index.php
 - Как я осилил английский - https://habr.com/ru/post/413633/   
 - https://skyeng.ru/articles/100-populyarnyh-razgovornyh-fraz-na-anglijskom
+- Pro English - https://www.youtube.com/channel/UCWihhVhYSjTOsSRGXVHncBQ/playlists
 - https://www.learnamericanenglishonline.com
 - Английский с нуля с Дмитрием Петровым - https://www.youtube.com/watch?v=kxzGEr5gGW4&list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92&index=4   
 - АНГЛИЙСКИЙ ЯЗЫК. ВЫУЧИМ 7000 АНГЛИЙСКИХ СЛОВ - https://www.youtube.com/watch?v=ESgEhKTI-K0&list=FL4lGM8jFNEZv5fAVVWMKhyA&index=4  
@@ -96,6 +100,8 @@
 - Путь тестировщика – от претендента к сотруднику IT-компании - https://www.scnsoft.by/blog/how-to-become-a-tester
 
 #Курсы
+- https://www.youtube.com/channel/UCXw-ZBpSbQMREyjB6FYHFcg/feed
+- https://qa-academy.by
 - https://www.it-academy.by/media/intervyu/svyatoslav-kulikov-glavnyy-sekret-uspeshnogo-testirovshchika-byt-paranoikom-/
 - http://training.qatestlab.com/
 - http://www.intuit.ru/studies/courses/1023/300/info
