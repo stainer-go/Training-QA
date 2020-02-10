@@ -1,4 +1,6 @@
 # Последовательность обучения
+- www.protesting.ru - http://www.protesting.ru/testing/ 
+- www.software-testing.ru - https://www.software-testing.ru/library/testing
 - http://testbase.ru/
 - be smart cookie
 
@@ -27,6 +29,7 @@
 #Блоги/люди
 - Крутая тетенька - https://www.blogger.com/profile/03026399106706734657
 - Блоги QA - http://www.aliceqa.ru/
+- Путь тестировщика – от претендента к сотруднику IT-компании - https://www.scnsoft.by/blog/how-to-become-a-tester
 
 #Курсы
 - http://training.qatestlab.com/
