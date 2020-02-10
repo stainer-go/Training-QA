@@ -1,4 +1,5 @@
 # Последовательность обучения
+- https://www.guru99.com - Guru99 is totally new kind of learning experience.
 - Protesting.ru - http://www.protesting.ru/testing/ 
 - Software-testing.ru - https://www.software-testing.ru/library/testing
 - Testbase - http://testbase.ru/
@@ -19,6 +20,7 @@
 - ПОПАРНОЕ ТЕСТИРОВАНИЕ (PAIRWISE TESTING) - https://training.qatestlab.com/blog/technical-articles/pairwise-testing/
 - Открытый вебинар «Метод Pairwise Testing в Black Box тестировании» - https://habr.com/ru/company/otus/blog/437980/
 - Инструменты для Pairwise - http://okiseleva.blogspot.com/2018/04/pairwise.html
+- ТАБЛИЦА ПРИНЯТИЯ РЕШЕНИЙ - https://qaevolution.ru/testovaya-dokumentaciya/test-dizajn/tablica-prinyatiya-reshenij/
 - be smart cookie
 
 # SCRUM
@@ -110,6 +112,9 @@
 
 #Всё о Селениуме 
 - https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_intro/index.html
+
+#Как Тестировать? Форма Входа
+- http://marshrut-testirovshika.ru/forma_vhoda/
 
 #Полезные расширения для тестирования
 - https://stfalcon.com/ru/blog/post/useful-testing-extensions
