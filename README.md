@@ -43,8 +43,9 @@
 - Что такое API для самых маленьких - https://habr.com/ru/sandbox/52599/
 - Что такое API - https://habr.com/ru/post/464261/
 - Как работать с API - https://www.youtube.com/watch?v=ZOAr4XcHDUw&list=FL4lGM8jFNEZv5fAVVWMKhyA&index=2&t=202s
-- Тестировать ЧЕРЕЗ  API (полный курс) - https://drive.google.com/open?id=1eqE1cj7HhrBMzwmHiBLDPIEg2vx1dZFi
+- Тестировать ЧЕРЕЗ  API (полный курс)!!! - https://drive.google.com/open?id=1eqE1cj7HhrBMzwmHiBLDPIEg2vx1dZFi
 - Тестировать REST API - http://testbase.ru/?post_type=skill&p=1313
+- Рельсы веб-интеграции. REST и SOAP!!!! - https://www.intervolga.ru/blog/projects/relsy-veb-integratsii-rest-i-soap/
 - Тестировать SOAP API - http://testbase.ru/?post_type=skill&p=1375
 - REST vs SOAP - https://jsehelper.blogspot.com/2016/04/web-services.html
 - REST vs SOAP - https://fooobar.com/questions/2543/soap-vs-rest-differences
@@ -103,6 +104,7 @@
 - Крутая тетенька - https://www.blogger.com/profile/03026399106706734657
 - Блоги QA - http://www.aliceqa.ru/
 - Путь тестировщика – от претендента к сотруднику IT-компании - https://www.scnsoft.by/blog/how-to-become-a-tester
+- Базовые проверки элементов веб страницы - http://kirdenoff.blogspot.com/2013/02/blog-post.html
 
 #Курсы
 - https://www.youtube.com/channel/UCXw-ZBpSbQMREyjB6FYHFcg/feed
