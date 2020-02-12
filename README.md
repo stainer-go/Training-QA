@@ -20,12 +20,14 @@
 - be smart cookie
 
 # Техники тест-дизайна
+- Классы эквивалентности для строки, которая обозначает дату - http://okiseleva.blogspot.com/2018/04/blog-post_14.html
 - Мнемоника БМВ для поиска граничных значений - https://habr.com/ru/post/418233/
 - Pairwise testing. Попарное тестирование. Программа PICT для попарного тестирования - https://www.youtube.com/watch?v=uPL5VrITeH4&list=PLIBIArebIchT9mWt89_Q18B3IDrcK2pHh&index=33
 - ПОПАРНОЕ ТЕСТИРОВАНИЕ (PAIRWISE TESTING) - https://training.qatestlab.com/blog/technical-articles/pairwise-testing/
 - Открытый вебинар «Метод Pairwise Testing в Black Box тестировании» - https://habr.com/ru/company/otus/blog/437980/
 - Инструменты для Pairwise - http://okiseleva.blogspot.com/2018/04/pairwise.html
 - ТАБЛИЦА ПРИНЯТИЯ РЕШЕНИЙ - https://qaevolution.ru/testovaya-dokumentaciya/test-dizajn/tablica-prinyatiya-reshenij/
+- Как сгенерить большую строку, инструменты - http://okiseleva.blogspot.com/2015/08/blog-post_8.html
 
 # SCRUM
 - The Scrum Guide - https://www.scrum.org/resources/scrum-guide
@@ -53,6 +55,7 @@
 - Тестировать SOAP API - http://testbase.ru/?post_type=skill&p=1375
 - REST vs SOAP - https://jsehelper.blogspot.com/2016/04/web-services.html
 - REST vs SOAP - https://fooobar.com/questions/2543/soap-vs-rest-differences
+- Введение в REST-запросы и тестирование GET-запросов - https://software-testing.ru/library/testing/testing-automation/2958-testing-get-requests
 
 # Книги: 
 - Список книг - http://okiseleva.blogspot.ru/2014/02/blog-post_6.html
