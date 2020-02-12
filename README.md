@@ -16,12 +16,16 @@
 - Чит-лист регистрации от Алексея Лупана - http://wiki.software-testing.ru/Чит-лист_регистрации_от_Алексея_Лупана
 - Руководство по SQL-инъекциям: изучаем на примерах - https://www.internet-technologies.ru/articles/rukovodstvo-po-sql-inekciyam-izuchaem-na-primerah.html
 - Тестирование защищенности веб-приложений - https://www.slideshare.net/VLDCORP/ss-10528253
+
+- be smart cookie
+
+# Техники тест-дизайна
+- Мнемоника БМВ для поиска граничных значений - https://habr.com/ru/post/418233/
 - Pairwise testing. Попарное тестирование. Программа PICT для попарного тестирования - https://www.youtube.com/watch?v=uPL5VrITeH4&list=PLIBIArebIchT9mWt89_Q18B3IDrcK2pHh&index=33
 - ПОПАРНОЕ ТЕСТИРОВАНИЕ (PAIRWISE TESTING) - https://training.qatestlab.com/blog/technical-articles/pairwise-testing/
 - Открытый вебинар «Метод Pairwise Testing в Black Box тестировании» - https://habr.com/ru/company/otus/blog/437980/
 - Инструменты для Pairwise - http://okiseleva.blogspot.com/2018/04/pairwise.html
 - ТАБЛИЦА ПРИНЯТИЯ РЕШЕНИЙ - https://qaevolution.ru/testovaya-dokumentaciya/test-dizajn/tablica-prinyatiya-reshenij/
-- be smart cookie
 
 # SCRUM
 - The Scrum Guide - https://www.scrum.org/resources/scrum-guide
