@@ -105,6 +105,7 @@
 - Блоги QA - http://www.aliceqa.ru/
 - Путь тестировщика – от претендента к сотруднику IT-компании - https://www.scnsoft.by/blog/how-to-become-a-tester
 - Базовые проверки элементов веб страницы - http://kirdenoff.blogspot.com/2013/02/blog-post.html
+- Элемент интерфейса - https://ru.wikipedia.org/wiki/Элемент_интерфейса
 
 #Курсы
 - https://www.youtube.com/channel/UCXw-ZBpSbQMREyjB6FYHFcg/feed
