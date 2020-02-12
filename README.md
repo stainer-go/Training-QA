@@ -69,6 +69,8 @@
 - Видео Software Testing & QA (ITVDN) https://www.youtube.com/playlist?list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy
 - QA практикум. Техники тест дизайна. Часть 1 - https://www.youtube.com/watch?v=gcWiWCrje44&t=13s
 - QA практикум. Техники тест дизайна. Часть 2 - https://www.youtube.com/watch?v=BQPdfQujJU8
+- Agile & Scrum – знакомство и легкое погружение (ITVDN) Артем Быковец https://www.youtube.com/watch?v=2uFA3f74D0Q&list=PLpci3JShGXJzHy3XkM7qW4TlntOWmJsfA
+- Разработка тест кейсов по методике Pair wise. Никита Постолакий. QA Fest https://www.youtube.com/watch?v=Bqmuw3ZJ75g&list=FL4lGM8jFNEZv5fAVVWMKhyA&index=2&t=0s
 - Внедрение новичка в команду тестировщиков" http://www.aliceqa.ru/2012/03/blog-post.html
 - Портнов https://www.youtube.com/watch?v=wYnayqdP9Ck
 - Баранцев про автотесты https://www.youtube.com/channel/UCVMFyEVvaBDQ3PrExtCH0uw
