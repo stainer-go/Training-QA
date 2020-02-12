@@ -1,5 +1,5 @@
 # Последовательность обучения
-- https://www.guru99.com - Guru99 is totally new kind of learning experience.
+- https://www.guru99.com - Guru99 is totally new kind of learning experience
 - Protesting.ru - http://www.protesting.ru/testing/ 
 - Software-testing.ru - https://www.software-testing.ru/library/testing
 - Testbase - http://testbase.ru/
@@ -16,7 +16,6 @@
 - Чит-лист регистрации от Алексея Лупана - http://wiki.software-testing.ru/Чит-лист_регистрации_от_Алексея_Лупана
 - Руководство по SQL-инъекциям: изучаем на примерах - https://www.internet-technologies.ru/articles/rukovodstvo-po-sql-inekciyam-izuchaem-na-primerah.html
 - Тестирование защищенности веб-приложений - https://www.slideshare.net/VLDCORP/ss-10528253
-
 - be smart cookie
 
 # Техники тест-дизайна
