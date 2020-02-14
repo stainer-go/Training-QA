@@ -27,6 +27,7 @@
 - Инструменты для Pairwise - http://okiseleva.blogspot.com/2018/04/pairwise.html
 - ТАБЛИЦА ПРИНЯТИЯ РЕШЕНИЙ - https://qaevolution.ru/testovaya-dokumentaciya/test-dizajn/tablica-prinyatiya-reshenij/
 - Как сгенерить большую строку, инструменты - http://okiseleva.blogspot.com/2015/08/blog-post_8.html
+- Метод попарного тестирования- https://software-testing.ru/library/testing/test-analysis/1304-pairing
 
 # SCRUM
 - The Scrum Guide - https://www.scrum.org/resources/scrum-guide
